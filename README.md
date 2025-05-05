@@ -12,7 +12,7 @@ Note: since this is not research, my methods might be not as good as the paper.
 ## Step 1: Get the code and the data
  Git the code of this repo
 ```
-git clone https://github.com/BinDong314/ESnetAI.git
+https://github.com/BinDong314/ESAIHW.git
 ```
 Below step assume python3 is installed.
 ## Step 2: Install and start jupyter lab
