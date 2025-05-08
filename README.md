@@ -22,8 +22,8 @@ git clone https://github.com/BinDong314/ESAIHW.git
 > ls data   
 103.csv			times_1_hour.csv
 ```
-103.csv	 contains the time series data of IP address 103.
-times_1_hour.csv is used to convert id_time in 103.csv to real-world time. 
+- 103.csv	 contains the time series data of IP address 103.
+- times_1_hour.csv is used to convert id_time in 103.csv to real-world time. 
 
 ## Step 2: Install and start jupyter lab
 ```
