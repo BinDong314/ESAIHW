@@ -38,6 +38,8 @@ A jupyter tab page will be open in your default web browser
 
 Please open the notebook file in jupyter to see the instruction to run it. The ESAIHW.ipynb is the file to run. 
 
+![notebook image](./figure/notebook.png)
+
 
 
 
