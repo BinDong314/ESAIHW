@@ -17,7 +17,7 @@ Below step assume python3 and git are installed on your system
 git clone https://github.com/BinDong314/ESAIHW.git
 ```
 ```
-> cd ESnetAI
+> cd ESAIHW
 > ls data   
 103.csv			times_1_hour.csv
 ```
@@ -26,7 +26,7 @@ times_1_hour.csv is used to convert id_time in 103.csv to real-world time.
 
 ## Step 2: Install and start jupyter lab
 ```
-> cd ESnetAI
+> cd ESAIHW
 > python3.13 -m venv .venv # create a virtual environment to have clean setup
 > source .venv/bin/activate
 > pip install jupyterlab  # install jupyterlab to run code
@@ -36,7 +36,7 @@ A jupyter tab page will be open in your default web browser
 
 ## Step 3: Run the script in jupyter lab
 
-Please open the notebook file in jupyter to see the instruction to run it. 
+Please open the notebook file in jupyter to see the instruction to run it. The ESAIHW.ipynb is the file to run. 
 
 
 
