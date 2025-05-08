@@ -9,7 +9,8 @@ Note: since this is not research, my methods might be not as good as the paper.
 
 
 # Steps to run the code
-Below step assume python3 and git are installed on your system
+Below step assume python3.13 and git are installed on your system
+I have not tested with other python versions. But, I assume python 3 will work. 
 
 ## Step 1: Get the code and the data
  Git the code of this repo
