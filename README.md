@@ -2,9 +2,9 @@
 Repo for the Homework for ESnetAI Role
 
 This Homework intends to re-produce the prediction of the number of IP flows (Fig. 10) in the paper with alternative methods
-```
-Koumar, J., Hynek, K., Čejka, T. et al. CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting. Sci Data 12, 338 (2025). https://doi.org/10.1038/s41597-025-04603-x
-```
+
+> Koumar, J., Hynek, K., Čejka, T. et al. CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting. Sci Data 12, 338 (2025). https://doi.org/10.1038/s41597-025-04603-x
+
 Note: since this is not research, my methods might be not as good as the paper.
 
 
